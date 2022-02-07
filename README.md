@@ -12,5 +12,8 @@
 [https://www.mathworks.com/academia/courseware/introduction-to-matlab.html](https://www.mathworks.com/academia/courseware/introduction-to-matlab.html)
 --->
 
+### Aulas síncronas:
+[https://meet.google.com/sdz-wmtg-xpn](https://meet.google.com/sdz-wmtg-xpn)
+
 ### Videoaulas:
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/Ii5ZxUsAMt4/0.jpg)](https://www.youtube.com/watch?v=Ii5ZxUsAMt4)
